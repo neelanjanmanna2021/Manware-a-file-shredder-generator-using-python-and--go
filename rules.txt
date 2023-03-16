@@ -1,0 +1,5 @@
+install python 3.10
+install golang
+pip install pycryptodome
+might work on linux as well have not tried yet
+pyinstaller --onefile a.py
